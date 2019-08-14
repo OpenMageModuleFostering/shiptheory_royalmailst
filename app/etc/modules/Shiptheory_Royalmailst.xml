@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Shiptheory_Royalmailst>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Shiptheory_Royalmailst>
+    </modules>
+</config>
