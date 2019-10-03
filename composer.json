@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Shiptheory_Royalmailst",
+    "name": "OpenMageModuleFostering\/Shiptheory_Royalmailst",
     "type": "magento-module",
     "license": "Commercial",
     "homepage": "",
     "description": "Royal Mail Shipping API Integration from Shiptheory",
     "authors": [
-    {
-        "name": "Shiptheory",
-        "email": "jm@shiptheory.com"
-    }
-],
+        {
+            "name": "Shiptheory",
+            "email": "jm@shiptheory.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
